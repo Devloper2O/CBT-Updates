@@ -387,13 +387,13 @@
       <dsig:DigestValue>olhfnAutJiYg3KLLPZjpUdj0a2XLpNrhO9eNJZcgLn4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SecureCBTClient.dll" size="249344">
+  <file name="SecureCBTClient.dll" size="248832">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qL44vVn83BMyBnJVPENPZvGRDsfd9/GyNV4pX12jD0o=</dsig:DigestValue>
+      <dsig:DigestValue>lD7c5ru49fbomrfWkTfe/FXcZ2e9Pz5XIKprFMLvqu8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SecureCBTClient.dll.config" size="77">
