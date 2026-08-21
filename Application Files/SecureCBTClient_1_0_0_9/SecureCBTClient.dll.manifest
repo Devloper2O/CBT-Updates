@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="SecureCBTClient.exe" version="1.0.0.8" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="SecureCBTClient.exe" version="1.0.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="graphic-designer.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -387,13 +387,13 @@
       <dsig:DigestValue>olhfnAutJiYg3KLLPZjpUdj0a2XLpNrhO9eNJZcgLn4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SecureCBTClient.dll" size="258560">
+  <file name="SecureCBTClient.dll" size="260608">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>YBn3/r8h+fLUVqTiKFwOlllv8ubW9dKvupWsN2Il3Lk=</dsig:DigestValue>
+      <dsig:DigestValue>stdpipOn/ChH1prTnR9MkcXhjBR5jpovZsgaaBix/pk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SecureCBTClient.dll.config" size="77">
